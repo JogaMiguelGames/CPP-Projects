@@ -1,3 +1,5 @@
+//ALPHA RNET.h V1.0
+
 #ifndef RNET_H
 #define RNET_H
 
