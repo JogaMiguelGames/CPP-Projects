@@ -1,4 +1,4 @@
-//ALPHA RMATH.h V1.0
+// ALPHA RMATH.h V1.0
 
 #ifndef RMATH_H
 #define RMATH_H
